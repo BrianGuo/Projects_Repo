@@ -34,19 +34,19 @@ https://github.com/BrianGuo/Json_Project.git
 
 ###Mini Projects
 
-login
+#####login
 
 Brian Guo, Chris Kim
 
 7/mongoproj/Chris-Brian
 
-regexp
+#####regexp
 
 Brian Guo, Ling Dong
 
 7/regexp/Ling-BrianG
 
-intro-proj 1
+#####intro-proj 1
 
 Brian Guo, Chris Kim
 
