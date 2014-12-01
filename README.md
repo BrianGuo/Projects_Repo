@@ -22,7 +22,7 @@ Ivy Wong, Lise Ho, Veronika Azzara, Brian Guo
 Allows user to create a blog post and list it under a title; will show on main page
 All posts have comment abilities
 
-https://github.com/koprty/softdev-projs.git
+https://github.com/koprty/BlogGroup5
 
 ####API, Json Project
 
